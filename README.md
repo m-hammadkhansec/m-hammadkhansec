@@ -24,4 +24,4 @@ I am a **Cybersecurity Student** at Air University, Islamabad, tracking my journ
 ---
 
 ### 📫 Let's Network & Collaborate!
-- **LinkedIn:** [MUHAMMAD HAMMAD KHAN](www.linkedin.com/in/muhammad-hammad-khan-b05852419)
+- **LinkedIn:** [MUHAMMAD HAMMAD KHAN](https://linkedin.com/in/muhammad-hammad-khan-b05852419)
