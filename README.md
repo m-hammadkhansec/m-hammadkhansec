@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Muhammad Hammad Khan! 👋 🛡️
 
-<!--
-**m-hammadkhansec/m-hammadkhansec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Cybersecurity Student** at Air University, Islamabad, tracking my journey from zero to **SOC Analyst ➡️ Penetration Tester ➡️ Red Teamer**. I focus on **Linux Environment Administration** and **Python Automation** to analyze defenses and build security tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗺️ My Cyber Roadmap & Action Labs
+
+*   **🛡️ Phase 1: Blue Team / SOC Analyst (Current Learning Focus)**
+    *   Analyzing system text logs, tracing network traffic packets, and scripting basic defensive tools.
+*   **🎯 Phase 2: Penetration Testing (Upcoming Milestone)**
+    *   Learning network vulnerability scanning, web application security testing, and active exploitation.
+*   **⚔️ Phase 3: Red Teaming (Long-term Goal)**
+    *   Writing customized offensive scripts, studying post-exploitation tactics, and simulating threat scenarios.
+
+---
+
+### 🛠️ Core Technology Sandbox
+
+- **Languages:** Python, Bash Scripting (Linux)
+- **Operating Systems:** Linux (Kali Linux, Ubuntu Administration), Windows Security
+- **Defensive Basics:** Log File Parsing, System Integrity Checks, Core Networking Concepts
+
+---
+
+### 📫 Let's Network & Collaborate!
+- **LinkedIn:** [MUHAMMAD HAMMAD KHAN](www.linkedin.com/in/muhammad-hammad-khan-b05852419)
