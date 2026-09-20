@@ -1,6 +1,6 @@
 Hi, I'm Muhammad Hammad Khan! 👋 🛡️
 
-I am a **Cybersecurity Student** at Air University, Islamabad, tracking my journey from zero to **SOC Analyst ➡️ Penetration Tester ➡️ Red Teamer**. I focus on **Linux Environment Administration** and **Python Automation** to analyze defenses and build security tools.
+I am a **Cybersecurity Student** at Air University, tracking my journey from zero to **SOC Analyst ➡️ Penetration Tester ➡️ Red Teamer**. I focus on **Linux Environment Administration** and **Python Automation** to analyze defenses and build security tools.
 
 ---
 
